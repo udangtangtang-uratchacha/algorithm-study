@@ -17,3 +17,11 @@
 * [1992번](https://www.acmicpc.net/problem/1992) 쿼드트리
 
 * [1780번](https://www.acmicpc.net/problem/1780) 종이의 개수
+
+### 3주차 2021.03.09 ~ 2021.03.14
+
+* [17070번](https://www.acmicpc.net/problem/17070) 파이프 옮기기
+
+* [2109번](https://www.acmicpc.net/problem/2109) 순회강연
+
+* [9663번](https://www.acmicpc.net/problem/9663) N-Queen
