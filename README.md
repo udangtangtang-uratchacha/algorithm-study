@@ -24,7 +24,7 @@
 
 * [2109번](https://www.acmicpc.net/problem/2109) 순회강연
 
-* [9663번](https://www.acmicpc.net/problem/9663) N-Queen
+* [12904번](https://www.acmicpc.net/problem/12904) A와 B
 
 ### 4주차 2021.03.22 ~ 2021.03.28
 
