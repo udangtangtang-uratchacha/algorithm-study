@@ -1,4 +1,3 @@
-// boj 2631 줄세우기
 #include <iostream>
 #include <vector>
 using namespace std;
